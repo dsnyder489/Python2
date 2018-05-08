@@ -17,3 +17,5 @@ searching through google or parsing through the data on your own.
 ## About Me
 Dave Snyder, Software Development Student at CCAC
 This project was completed in my Python 2 course
+
+![alt text](https://github.com/dsnyder489/Python2/blob/master/discogsAPI.png)
